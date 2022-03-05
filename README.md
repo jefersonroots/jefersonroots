@@ -7,7 +7,7 @@ windows + '.' = emoji
  -->
  
 - 🔭 Hoje trabalho como desenvolvedor de software full-stack.
-- 🌱 Ando me aperfeiçoando em frameworks php e outras linguagem como react e node.
+- 🌱 Ando me aperfeiçoando em frameworks php e estudando react e node.
 - 📫 Email pra mandar aquele salve: jefersonsaaantos@gmail.com  ( sim com 3 'as') rs
 
 <div align="center">
@@ -17,7 +17,7 @@ windows + '.' = emoji
   </a>
 </div>
 
- ## Algumas Técnologias que ultilizo.
+ ## Algumas técnologias que trabalho.
   <div style="display: inline_block"><br>
   |<img align="center" alt="Jef-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   |<img align="center" alt="Jef-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
