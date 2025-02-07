@@ -20,14 +20,13 @@ windows + '.' = emoji
  ## Algumas técnologias que trabalho.
   <div style="display: inline_block"><br>
 <table > <td style="background-color: coral;">  <img desactive align="center" alt="Jef-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></td>
-<td>   <img align="center" alt="Jef-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
  <td>   <img align="center" alt="Jef-BTP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
  <td>  <img align="center" alt="Jef-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <td>  <img align="center" alt="Jef-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <td>   <img align="center" alt="Jef-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <td>  <img align="center" alt="Jef-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 <td>  <img align="center" alt="Jef-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <td>  <img align="center" alt="Jef-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <td>  <img align="center" alt="Jef-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
 <td>   <img align="center" alt="Jef-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <td> <img align="center" alt="Jef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </table>
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/8FfhRgO2X5uW1SFEfH/200w.webp?cid=ecf05e47zttx6cnsz0r7755pk2dzuibegqk822tehogn4jfn&rid=200w.webp&ct=g" />
